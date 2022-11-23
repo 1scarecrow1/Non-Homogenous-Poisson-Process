@@ -1,1 +1,1 @@
-# Non-Honogenous-Poisson-Process
+# Non-Homogenous-Poisson-Process
